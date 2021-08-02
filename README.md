@@ -24,3 +24,9 @@ booked or open for the customers of the application;
 **Dashboard**: To visualize the currently booked appointments for the provider;
 
 **Profile**: To change the profil data, like password and avatar;
+
+### Features to implement
+- The access for the non provider users inside the web platform;
+
+- Make possible for the provider to configure the available appointments, like the hours and the
+days of the week;
